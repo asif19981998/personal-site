@@ -7,15 +7,26 @@ import Resume from './main-component/resume';
 import Projects from './main-component/projects';
 import Contact from './main-component/contact';
 import { Route } from 'react-router';
+import React from 'react';
 function App() {
   return (
-    <div className="body">
-      <Navbar></Navbar>
+    <React.Fragment>
+       <header>
+        <Navbar></Navbar>
+     </header> 
+     
+      
+    <body>  
       <Route path="/home" component={Home}></Route>
       <Route path="/resume" component={Resume}></Route>
       <Route path="/projects" component={Projects}></Route>
       <Route path="/contact" component={Contact}></Route>
-    </div>
+    </body>
+    <footer>
+      <div>footer</div>
+    </footer>
+    </React.Fragment>
+    
     
    );
 }

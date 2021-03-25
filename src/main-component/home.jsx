@@ -6,7 +6,17 @@ class Home extends Component {
         this.state = {  }
     }
     render() { 
-        return ( <div >Home</div> );
+        return ( 
+        <div className="row">
+            
+                <div className="col-12 col-md-6 left-side">Left</div>
+                <div className="col-12 col-md-6">Right</div>
+            
+           
+           
+        </div>
+        
+            );
     }
 }
  
