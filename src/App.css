@@ -1,12 +1,25 @@
-body {
-  height: 700px;
-   
+
+
+.navbar {
+  position: fixed  !important;
+  top: 0;
+  width: 100%;
+  display: block;
+  z-index: 9999;
+  overflow: hidden;
+  padding:0  !important;
+ 
 }
 
+body{
+  margin-top: 8% !important;
+}
+footer{
+  overflow: hidden;
+}
+
+
+
 @media (max-width:550px){
-  body{
-    height: 400px;
-    width: auto;
-    background-color: red;
-  }
+  
 }

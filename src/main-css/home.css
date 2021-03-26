@@ -3,16 +3,16 @@
   height: 650px;
 }
 
-.card-img-top {
-  border-radius: 50%;
-  height: 150px;
-  width: 150px;
+.home-card-img-top {
+  border-radius: 50% !important;
+  height: 150px !important;
+  width: 150px !important;
 }
-.card {
-  width: 300px;
-  height: 40%;
-  background-color: #f4ece6;
-  padding: 29%;
+.home-card {
+  width: 300px  !important;
+  height: 40% !important;
+  background-color: #f4ece6 !important;
+  padding: 29% !important;
   
 }
 .author-detail {
@@ -21,12 +21,11 @@
   
  
 }
-.card-title{
-  font-weight: bold;
+.home-card-title{
+  font-weight: bold !important;
 }
 hr{
   margin: 16px;
-  
   height: 1px;
   background-color: blue;
 
@@ -34,8 +33,10 @@ hr{
 }
 
 .right-side {
-  height: 650px;
-  padding-left: 10%;
+  height: 650px !important;
+  padding-left: 8%  !important;
+  text-align: justify;
+  padding-top: 10%;
 }
 
 .right-side button{

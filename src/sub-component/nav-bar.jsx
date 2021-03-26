@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars, faCoffee } from '@fortawesome/free-solid-svg-icons'
 import { NavLink } from 'react-router-dom';
-
+import "../main-css/nav-bar.css";
 class Navbar extends Component {
     constructor(props) {
         super(props);
@@ -17,7 +17,7 @@ class Navbar extends Component {
         return ( 
           
             
-            <nav>
+            <nav >
             <div className="row">
              <div className="col col-md-6">
              
@@ -41,7 +41,7 @@ class Navbar extends Component {
               <label htmlFor="check" className="checkbtn">
               <FontAwesomeIcon icon={faBars} />
               </label>
-             <ul onClick={this.handleCheckBok}>
+             <ul onClick={this.handleCheckBok} >
              
                 
                 <li><NavLink to="/home">Home</NavLink></li>

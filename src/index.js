@@ -8,8 +8,8 @@ import "bootstrap/dist/js/bootstrap.min.js";
 import "bootstrap/dist/js/bootstrap.bundle.js";
 import "font-awesome/css/font-awesome.css";
 import "font-awesome/css/font-awesome.min.css";
-import "./main-css/home.css";
-import "./main-css/nav-bar.css";
+
+
 import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
