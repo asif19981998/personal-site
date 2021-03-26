@@ -1,0 +1,22 @@
+.project_body {
+    background:  #e6dace !important;
+    min-height: 950px  !important;
+    padding: 2% !important;
+
+}
+
+.project_body_element{
+    padding:10% 25% 0 25%;
+}
+
+.project-card {
+    margin:20px 0  6px 0  !important;
+    margin-bottom: 6px !important;
+    padding: 5%;
+}
+.page-header{
+    text-align: center;
+    font-weight: bold;
+
+
+}

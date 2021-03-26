@@ -31,7 +31,7 @@ function App() {
       </Switch>
       
     </body>
-    <footer>
+    <footer className="footer">
       <div>
         <div className="row">
           <div className="col-6 col-md-6">
