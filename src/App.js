@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Home from './main-component/home';
 import Navbar from './sub-component/nav-bar';
@@ -31,6 +31,7 @@ function App() {
       </Switch>
       
     </body>
+    
     <footer className="footer">
       <div>
         <div className="row">
@@ -45,7 +46,7 @@ function App() {
             </p>
               </div>
               <div className="col-4 col-md-4">
-              <p>Gamil<br></br>
+              <p>Gmail<br></br>
             rakibulasif1998@gmail.com
             </p>
               </div>

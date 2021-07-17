@@ -16,44 +16,22 @@ class Resume extends Component {
                     <div className="card resume-card" >
                         <div className="row">
                         <div className="col-6 col-md-6">
-                        2019 - Present
-                        JOB POSITION
+                        <p>April,2019 - June,2020</p>
+                        <p>Junior Software Developer</p>
 
-                        Company Name
+                        <p>Aits Idea Limited</p>
 
-                        Company Location
+                       <p>Mohamadpur,Dhaka</p>
                         </div>
                         <div className="col-6 col-md-6">
-                        I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-Just click “Edit Text” or double click me to add your own content and make
- changes to the font.
-I’m a great place for you to tell a story and let your users know a little
- more about you.
+                           I had working there as Junoir Software engineer. My main accountability was 
+                           bulid client site for a Educational Institution Management System. I aslo 
+                           learn Server Site Work processing .
                         </div>
                         </div>
                     </div>
                    
-                    <div className="card resume-card">
-                        <div className="row">
-                        <div className="col-6 col-md-6">
-                        2019 - Present
-                        JOB POSITION
-
-                        Company Name
-
-                        Company Location
-                        </div>
-                        <div className="col-6 col-md-6">
-                        I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-Just click “Edit Text” or double click me to add your own content and make
- changes to the font.
-I’m a great place for you to tell a story and let your users know a little
- more about you.
-                        </div>
-                        </div>
-                    </div>
-                   
-                   
+             
 
 
                 </div>
@@ -61,62 +39,45 @@ I’m a great place for you to tell a story and let your users know a little
                     <h4>Education</h4>
                     <div className="card resume-card">
                         <div className="row">
-                        <div className="col-6 col-md-6">
-                        2019 - Present
-                        JOB POSITION
+                        <div className="col-12 col-md-12">
+                        <p>2018 - 2021</p>
+                        <p>Bsc in Computer Science And Engineering</p>
 
-                        Company Name
+                        <p>Daffodil International University</p>
 
-                        Company Location
+                        <p>Savar,Dhaka</p>
                         </div>
-                        <div className="col-6 col-md-6">
-                        I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-Just click “Edit Text” or double click me to add your own content and make
- changes to the font.
-I’m a great place for you to tell a story and let your users know a little
- more about you.
+                       
                         </div>
+                    </div> <div className="card resume-card">
+                        <div className="row">
+                        <div className="col-12 col-md-12">
+                        <p>2015 - 2016</p>
+                        <p>Higher Secondary School Certificate</p>
+
+                        <p>Mojid Memorial City College</p>
+
+                        <p>Khulna</p>
+                        </div>
+                       
                         </div>
                     </div>
                     <div className="card resume-card">
                         <div className="row">
-                        <div className="col-6 col-md-6">
-                        2019 - Present
-                        JOB POSITION
+                        <div className="col-12 col-md-12">
+                        <p>2013 - 2014</p>
+                        <p>Secondary School Certificate</p>
 
-                        Company Name
+                        <p>Lions School and College,Khulna</p>
 
-                        Company Location
+                        <p>Khulna</p>
                         </div>
-                        <div className="col-6 col-md-6">
-                        I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-Just click “Edit Text” or double click me to add your own content and make
- changes to the font.
-I’m a great place for you to tell a story and let your users know a little
- more about you.
-                        </div>
+                       
                         </div>
                     </div>
-                    <div className="card resume-card">
-                        <div className="row">
-                        <div className="col-6 col-md-6">
-                        2019 - Present
-                        JOB POSITION
 
-                        Company Name
 
-                        Company Location
-                        </div>
-                        <div className="col-6 col-md-6">
-                        I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-Just click “Edit Text” or double click me to add your own content and make
- changes to the font.
-I’m a great place for you to tell a story and let your users know a little
- more about you.
-                        </div>
-                        </div>
-                    </div>
-                   
+                  
                 </div>
                </div>
             </div>

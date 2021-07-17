@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import "../main-css/contact.css"
-import {TextField,Button,Icon} from '@material-ui/core';
+import {TextField,Button} from '@material-ui/core';
 class Contact extends Component {
     constructor(props) {
         super(props);
@@ -46,7 +46,7 @@ class Contact extends Component {
                     variant="contained"
                     color="primary"
                     
-                >
+                 >
                     Send
       </Button>
                     </div>

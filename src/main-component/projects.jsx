@@ -11,114 +11,48 @@ class Projects extends Component {
                <div className="project_body_element">
                <h3 className="page-header">project</h3>
                 
-                <div>
-                    
+             
                     <div className="card project-card" >
                         <div className="row">
                         <div className="col-6 col-md-6">
-                        2019 - Present
-                        JOB POSITION
-
-                        Company Name
-
-                        Company Location
+                        <p><b>Educational Institution Management System</b></p>
+                        <p>  A solution for Educational Institution Management System. This is my company project where i worked on.  </p>
                         </div>
                         <div className="col-6 col-md-6">
-                        I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-Just click “Edit Text” or double click me to add your own content and make
- changes to the font.
-I’m a great place for you to tell a story and let your users know a little
- more about you.
+                        I made it using C#, ASP.NET Core Api, Entity Framework, Angular, MSSQL
+
                         </div>
                         </div>
                     </div>
-                   
-                    <div className="card project-card">
+                    <div className="card project-card" >
                         <div className="row">
                         <div className="col-6 col-md-6">
-                        2019 - Present
-                        JOB POSITION
-
-                        Company Name
-
-                        Company Location
+                        <p><b>Stock Management System</b></p>
+                        <p>  A solution for Stock Mangement System. I work with 3 members in this project.  </p>
                         </div>
                         <div className="col-6 col-md-6">
-                        I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-Just click “Edit Text” or double click me to add your own content and make
- changes to the font.
-I’m a great place for you to tell a story and let your users know a little
- more about you.
+                        This is the final project of BITM training. Customer Entry, Product Entry, Sales,
+                         Purchase, Inventory, Report are the features of this project.
+                          I worked with 2 members in this project. 
                         </div>
                         </div>
                     </div>
-                   
-                   
-
-
-                </div>
-                < div>
-                    
-                    <div className="card project-card">
+                    <div className="card project-card" >
                         <div className="row">
                         <div className="col-6 col-md-6">
-                        2019 - Present
-                        JOB POSITION
-
-                        Company Name
-
-                        Company Location
+                        <p><b>AmarDaktar</b></p>
+                        <p>  A solution for Health Service. This is my own build project.  </p>
                         </div>
                         <div className="col-6 col-md-6">
-                        I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-Just click “Edit Text” or double click me to add your own content and make
- changes to the font.
-I’m a great place for you to tell a story and let your users know a little
- more about you.
+                         I am Using ReactJs,Aspnet Core Api,MsSql as Database .
                         </div>
                         </div>
                     </div>
-                    <div className="card project-card">
-                        <div className="row">
-                        <div className="col-6 col-md-6">
-                        2019 - Present
-                        JOB POSITION
-
-                        Company Name
-
-                        Company Location
-                        </div>
-                        <div className="col-6 col-md-6">
-                        I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-Just click “Edit Text” or double click me to add your own content and make
- changes to the font.
-I’m a great place for you to tell a story and let your users know a little
- more about you.
-                        </div>
-                        </div>
-                    </div>
-                    <div className="card project-card">
-                        <div className="row">
-                        <div className="col-6 col-md-6">
-                        2019 - Present
-                        JOB POSITION
-
-                        Company Name
-
-                        Company Location
-                        </div>
-                        <div className="col-6 col-md-6">
-                        I'm a paragraph. Click here to add your own text and edit me. It’s easy. 
-Just click “Edit Text” or double click me to add your own content and make
- changes to the font.
-I’m a great place for you to tell a story and let your users know a little
- more about you.
-                        </div>
-                        </div>
-                    </div>
-                   
-                </div>
+       
+       
+               
                </div>
+           
             </div>
 
          );
