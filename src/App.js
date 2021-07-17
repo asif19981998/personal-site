@@ -32,24 +32,22 @@ function App() {
       
     </body>
     
-    <footer className="footer">
-      <div>
+    <footer className="footer" >
+      <div style={{paddingLeft:"2%"}}>
         <div className="row">
-          <div className="col-6 col-md-6">
-            <p>Copyright @2021 By S.M Rakibul Huda</p>
-          </div>
-          <div className="col-6 col-md-6">
+          
+          <div className="col-12 col-md-6">
             <div className="row">
               <div className="col-4 col-md-4">
               <p>Call<br></br>
             01706634346
             </p>
               </div>
-              <div className="col-4 col-md-4">
+              {/* <div className="col-4 col-md-4">
               <p>Gmail<br></br>
-            rakibulasif1998@gmail.com
+              rakibulasif1998@gmail.com
             </p>
-              </div>
+              </div> */}
               <div className="col-4 col-md-4">
               <p>Follow<br></br>
             <FontAwesomeIcon icon={faCertificate}/>
@@ -64,6 +62,10 @@ function App() {
             
             </div>
           </div>
+          <div className="col-12 col-md-6" >
+            <p>Copyright @2021 By S.M Rakibul Huda</p>
+          </div>
+       
         </div>
       </div>
     </footer>

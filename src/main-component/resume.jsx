@@ -15,7 +15,7 @@ class Resume extends Component {
                     <h4>Experience</h4>
                     <div className="card resume-card" >
                         <div className="row">
-                        <div className="col-6 col-md-6">
+                        <div className="col-12 col-md-6">
                         <p>April,2019 - June,2020</p>
                         <p>Junior Software Developer</p>
 
@@ -23,7 +23,7 @@ class Resume extends Component {
 
                        <p>Mohamadpur,Dhaka</p>
                         </div>
-                        <div className="col-6 col-md-6">
+                        <div className="col-12 col-md-6">
                            I had working there as Junoir Software engineer. My main accountability was 
                            bulid client site for a Educational Institution Management System. I aslo 
                            learn Server Site Work processing .
