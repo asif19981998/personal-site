@@ -16,7 +16,7 @@ class Home extends Component {
             <div className="col-12 col-md-6 left-side">
                <div className="author-detail">
                <div className="card home-card" >
-                     <img className="card-img-top home-card-img-top" src={authorImg} alt="Card"/>
+                     <img className="card-img-top home-card-img-top" src={authorImg} alt="authorimage"/>
                      <div className="card-body home-card-body">
                      <h4  className="card-title home-card-title"  >S.M Rakibul Huda</h4>
                      <hr ></hr>

@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import school from "../image/school.jpg";
+import clg from "../image/college.jpg";
+import varsity from "../image/varsity.jpg";
 import "../main-css/resume.css"
 class Resume extends Component {
     constructor(props) {
@@ -39,7 +42,7 @@ class Resume extends Component {
                     <h4>Education</h4>
                     <div className="card resume-card">
                         <div className="row">
-                        <div className="col-12 col-md-12">
+                        <div className="col-6 col-md-6">
                         <p>2018 - 2021</p>
                         <p>Bsc in Computer Science And Engineering</p>
 
@@ -47,11 +50,14 @@ class Resume extends Component {
 
                         <p>Savar,Dhaka</p>
                         </div>
+                        <div className="col-6 col-md-6">
+                            <img className="resume-image" src={varsity}></img>
+                        </div>
                        
                         </div>
                     </div> <div className="card resume-card">
                         <div className="row">
-                        <div className="col-12 col-md-12">
+                        <div className="col-6 col-md-6">
                         <p>2015 - 2016</p>
                         <p>Higher Secondary School Certificate</p>
 
@@ -59,18 +65,24 @@ class Resume extends Component {
 
                         <p>Khulna</p>
                         </div>
+                        <div className="col-6 col-md-6">
+                            <img className="resume-image" src={clg}></img>
+                        </div>
                        
                         </div>
                     </div>
                     <div className="card resume-card">
                         <div className="row">
-                        <div className="col-12 col-md-12">
+                        <div className="col-6 col-md-6">
                         <p>2013 - 2014</p>
                         <p>Secondary School Certificate</p>
 
                         <p>Lions School and College,Khulna</p>
 
                         <p>Khulna</p>
+                        </div>
+                        <div className="col-6 col-md-6">
+                            <img className="resume-image" src={school}></img>
                         </div>
                        
                         </div>
