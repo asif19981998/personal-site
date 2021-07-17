@@ -57,8 +57,12 @@ hr{
 
 
 @media screen and (max-width: 420px) {
+  .left-side {
+    background-color: #fff;
+    height: 340px;
+  }
   .home-card {
-    width: 300px !important;
+    width: 100% !important;
     height: 20% !important;
     background-color: #f4ece6 !important;
     padding: 10px !important;  
