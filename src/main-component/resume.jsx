@@ -26,7 +26,8 @@ class Resume extends Component {
 
                        <p>Mohamadpur,Dhaka</p>
                         </div>
-                        <div className="col-12 col-md-6">
+                        <hr></hr>
+                        <div className="col-12 col-md-6 about-me">
                            I had working there as Junoir Software engineer. My main accountability was 
                            bulid client site for a Educational Institution Management System. I aslo 
                            learn Server Site Work processing .
@@ -43,8 +44,8 @@ class Resume extends Component {
                     <div className="card resume-card">
                         <div className="row">
                         <div className="col-6 col-md-6">
-                        <p>2018 - 2021</p>
-                        <p>Bsc in Computer Science And Engineering</p>
+                        <p>Session: 2018-2021</p>
+                        <p >Bsc in Computer Science And Engineering</p>
 
                         <p>Daffodil International University</p>
 
@@ -58,7 +59,7 @@ class Resume extends Component {
                     </div> <div className="card resume-card">
                         <div className="row">
                         <div className="col-6 col-md-6">
-                        <p>2015 - 2016</p>
+                        <p>Session: 2015-2016</p>
                         <p>Higher Secondary School Certificate</p>
 
                         <p>Mojid Memorial City College</p>
@@ -74,7 +75,7 @@ class Resume extends Component {
                     <div className="card resume-card">
                         <div className="row">
                         <div className="col-6 col-md-6">
-                        <p>2013 - 2014</p>
+                        <p>Session: 2013-2014</p>
                         <p>Secondary School Certificate</p>
 
                         <p>Lions School and College,Khulna</p>
