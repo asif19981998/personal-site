@@ -28,9 +28,9 @@ class Resume extends Component {
                         </div>
                         <hr></hr>
                         <div className="col-12 col-md-6 about-me">
-                           I had working there as Junoir Software engineer. My main accountability was 
-                           bulid client site for a Educational Institution Management System. I aslo 
-                           learn Server Site Work processing .
+                           I had worked there as Junior Software Engineer. My main accountability was 
+                           bulit client site for a Educational Institution Management System. I aslo 
+                           learn Server Site Api Design and Pattern .
                         </div>
                         </div>
                     </div>
