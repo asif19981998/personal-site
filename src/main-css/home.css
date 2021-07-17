@@ -1,7 +1,9 @@
 .home-body{
   width: 98% !important;
 }
-
+.home-body-content{
+    margin-top: 8%;
+}
 
 .left-side {
   background-color: #e6dace;
@@ -57,6 +59,9 @@ hr{
 
 
 @media screen and (max-width: 420px) {
+  .home-body-content{
+    margin-top: 28% !important;
+}
   .left-side {
     background-color: #fff;
     height: 340px;

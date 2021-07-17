@@ -9,7 +9,7 @@ class Projects extends Component {
         return ( 
             <div className="project_body">
                <div className="project_body_element">
-               <h3 className="page-header">project</h3>
+               <h3 className="page-header">Project</h3>
                 
              
                     <div className="card project-card" >

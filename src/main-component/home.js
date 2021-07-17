@@ -11,7 +11,7 @@ class Home extends Component {
         return ( 
       
             <div className="home-body">
-                          <div className="row" style={{marginTop:"20%"}}>
+                          <div className="row home-body-content" >
             
             <div className="col-12 col-md-6 left-side">
                <div className="author-detail">
