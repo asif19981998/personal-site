@@ -24,3 +24,9 @@
 .send-button{
     padding-top: 12%;
 }
+
+@media screen and (max-width: 420px) {
+    .contact_body_element{
+        padding:30% 0 0 0;
+    }
+}
